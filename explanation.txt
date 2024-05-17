@@ -1,0 +1,21 @@
+1. Now going to open training dataset
+
+	Training dataset contains OCEAN data as input and output as personality
+
+2. Now running the code
+
+3. Code first contains header files
+
+4. Next getting training data as input
+
+5. Displaying training data
+
+6. Preprocessing
+
+7. Preprocessed output
+
+8. Training the data
+
+9. getting test data as input
+
+10. Predicting the personality
